@@ -41,4 +41,5 @@ node_modules
 
 *.rdb
 
-
+### local development dotofiles
+.powder
