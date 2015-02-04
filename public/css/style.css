@@ -1052,7 +1052,7 @@
 
 /* One */
 
-	#one:before {
+	#zero:before {
 		background-image: url("../images/banner.jpg");
 		background-position: top right;
 		background-repeat: no-repeat;
