@@ -1054,7 +1054,7 @@
 
 	#zero:before {
 		background-image: url("../images/banner.jpg");
-		background-position: top right;
+		background-position: top center;
 		background-repeat: no-repeat;
 		background-size: cover;
 		content: '';
